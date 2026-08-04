@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shorya0212/My_Leetcode/tree/master/0007-reverse-integer) |
 | [1510-stone-game-iv](https://github.com/Shorya0212/My_Leetcode/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
