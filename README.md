@@ -32,6 +32,7 @@
 | ------- |
 | [0577-employee-bonus](https://github.com/Shorya0212/My_Leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Shorya0212/My_Leetcode/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/Shorya0212/My_Leetcode/tree/master/1251-average-selling-price) |
 ## Two Pointers
 |  |
 | ------- |
