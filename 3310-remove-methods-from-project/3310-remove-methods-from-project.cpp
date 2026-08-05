@@ -1,41 +1,42 @@
 class Solution {
 public:
-    void dfs(int node, unordered_map<int,unordered_set<int>> &adj, unordered_set<int> &bugs, vector<int> &vis){
-        bugs.insert(node);
-        vis[node] = 1;
-        for(auto &it : adj[node]){
-            if(!vis[it]) dfs(it,adj,bugs,vis);
-        }
-        return;
-    }
-public:
-    vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
-        unordered_map<int,unordered_set<int>> adj;
-        for(auto &it : invocations){
-            adj[it[0]].insert(it[1]);
-        }
-        unordered_set<int> bugs;
-        vector<int> vis(n);
-        dfs(k,adj,bugs,vis);
-        bool flag = false;
-        for(auto &it : adj){
-            for(auto &ngb : it.second){
-                if(bugs.count(ngb) && !bugs.count(it.first)){
-                    flag = true;
-                    break;
+    bool outsideConnection = false;
+    vector<int> mark;
+    void bfs(int color, unordered_map<int, vector<int>>& graph, int src){
+        queue<int> q;
+        q.push(src);
+        mark[src] = color;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            if(!graph.count(node)) continue;
+            for(int nxt : graph[node]){
+                if(mark[nxt] == 1 && color == 2){
+                    outsideConnection = true;
+                    return;
+                }
+                if(mark[nxt] != color){
+                    mark[nxt] = color;
+                    q.push(nxt);
                 }
             }
         }
-        vector<int> result;
-        if(flag){ 
-            for(int i=0;i<n;i++){
-                result.push_back(i);
-            }
-            return result;
+    }
+    vector<int> remainingMethods(int n, int k, vector<vector<int>>& edges) {
+        unordered_map<int, vector<int>> graph;
+        mark.assign(n, 0);
+        for(auto &e : edges)
+            graph[e[0]].push_back(e[1]);
+        bfs(1, graph, k);
+        for(int i = 0; i < n; i++){
+            if(i == k || mark[i] == 1) continue;
+            bfs(2, graph, i);
         }
-        for(int i=0;i<n;i++){
-            if(!bugs.count(i)) result.push_back(i);
+        vector<int> res;
+        for(int i = 0; i < n; i++){
+            if(!outsideConnection && mark[i] == 1) continue;
+            res.push_back(i);
         }
-        return result;
+        return res;
     }
 };
