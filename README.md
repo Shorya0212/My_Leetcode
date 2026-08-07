@@ -33,6 +33,7 @@
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Shorya0212/My_Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Shorya0212/My_Leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Shorya0212/My_Leetcode/tree/master/0620-not-boring-movies) |
 | [1193-monthly-transactions-i](https://github.com/Shorya0212/My_Leetcode/tree/master/1193-monthly-transactions-i) |
