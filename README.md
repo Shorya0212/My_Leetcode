@@ -138,6 +138,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shorya0212/My_Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
