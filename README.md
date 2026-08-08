@@ -8,6 +8,7 @@
 | [0057-insert-interval](https://github.com/Shorya0212/My_Leetcode/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/Shorya0212/My_Leetcode/tree/master/0228-summary-ranges) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
 | [3731-find-missing-elements](https://github.com/Shorya0212/My_Leetcode/tree/master/3731-find-missing-elements) |
@@ -156,4 +157,5 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
