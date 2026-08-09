@@ -107,6 +107,7 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/Shorya0212/My_Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Trie
@@ -122,6 +123,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3310-remove-methods-from-project](https://github.com/Shorya0212/My_Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -187,11 +189,13 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
