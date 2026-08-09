@@ -44,6 +44,7 @@
 | [0577-employee-bonus](https://github.com/Shorya0212/My_Leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Shorya0212/My_Leetcode/tree/master/0620-not-boring-movies) |
 | [1193-monthly-transactions-i](https://github.com/Shorya0212/My_Leetcode/tree/master/1193-monthly-transactions-i) |
+| [1211-queries-quality-and-percentage](https://github.com/Shorya0212/My_Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Shorya0212/My_Leetcode/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Shorya0212/My_Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 ## Two Pointers
