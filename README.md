@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/0001-two-sum) |
 | [0057-insert-interval](https://github.com/Shorya0212/My_Leetcode/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/Shorya0212/My_Leetcode/tree/master/0228-summary-ranges) |
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shorya0212/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3731-find-missing-elements](https://github.com/Shorya0212/My_Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -34,6 +36,7 @@
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Shorya0212/My_Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -81,6 +84,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Shorya0212/My_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Shorya0212/My_Leetcode/tree/master/1510-stone-game-iv) |
@@ -120,6 +124,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
 ## Manacher
 |  |
@@ -223,4 +228,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
