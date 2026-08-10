@@ -165,6 +165,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Shorya0212/My_Leetcode/tree/master/0077-combinations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -236,4 +237,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
