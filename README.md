@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/Shorya0212/My_Leetcode/tree/master/0228-summary-ranges) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shorya0212/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3731-find-missing-elements](https://github.com/Shorya0212/My_Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shorya0212/My_Leetcode/tree/master/0007-reverse-integer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/Shorya0212/My_Leetcode/tree/master/1510-stone-game-iv) |
@@ -212,4 +215,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
