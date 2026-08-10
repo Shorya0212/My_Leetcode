@@ -15,13 +15,18 @@ public:
         }
         return dp[idx] = false;
     }
-    bool wordBreak(string s, vector<string>& wordDict) {
-        int n =s.length();
-        vector<int> dp(n+1,-1);
-        for(string word:wordDict){
-            st.insert(word);
+     bool wordBreak(string s, vector<string>& wordDict) {
+        vector<bool> dp(s.size()+1, 0);
+        dp[0] = true;
+        unordered_set<string> set(wordDict.begin(), wordDict.end());
+        for(int i=1; i<=s.size(); i++){
+            for(int j=0; j<i; j++){
+                if(dp[j] && set.count(s.substr(j, i-j))){
+                    dp[i] = true;
+                    break;
+                }
+            }
         }
-        return solve(0,s,dp);
-
+        return dp[s.size()];
     }
-};
+};    
