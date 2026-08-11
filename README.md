@@ -8,6 +8,7 @@
 | [0057-insert-interval](https://github.com/Shorya0212/My_Leetcode/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/Shorya0212/My_Leetcode/tree/master/0228-summary-ranges) |
@@ -25,6 +26,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shorya0212/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shorya0212/My_Leetcode/tree/master/3731-find-missing-elements) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shorya0212/My_Leetcode/tree/master/0007-reverse-integer) |
+| [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -247,4 +250,16 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0052-n-queens-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
