@@ -16,6 +16,7 @@
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shorya0212/My_Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@
 | [0076-minimum-window-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shorya0212/My_Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shorya0212/My_Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
