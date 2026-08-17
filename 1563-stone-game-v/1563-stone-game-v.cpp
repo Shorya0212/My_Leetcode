@@ -20,14 +20,49 @@ public:
         return dp[l][r] = score;
     }
     int stoneGameV(vector<int>& stoneValue) {
-        int n =stoneValue.size();
-        vector<int> curr(n,0);
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        curr[0] =stoneValue[0];
-        for(int i=1;i<n;i++){
-            curr[i] =curr[i-1]+stoneValue[i];
+        int n = stoneValue.size();
+
+        vector<int> pref(n);
+        pref[0] = stoneValue[0];
+
+        for (int i = 1; i < n; i++) {
+            pref[i] = pref[i - 1] + stoneValue[i];
         }
-        return solve(0,n-1,curr,dp);
-        
+
+        vector<vector<int>> dp(n, vector<int>(n, 0));
+
+        for (int l = n - 1; l >= 0; l--) {
+
+            for (int r = l + 1; r < n; r++) {
+
+                for (int mid = l; mid < r; mid++) {
+
+                    int leftSum = pref[mid] - (l > 0 ? pref[l - 1] : 0);
+                    int rightSum = pref[r] - pref[mid];
+
+                    if (leftSum < rightSum) {
+                        dp[l][r] = max(
+                            dp[l][r],
+                            leftSum + dp[l][mid]
+                        );
+                    }
+                    else if (leftSum > rightSum) {
+                        dp[l][r] = max(
+                            dp[l][r],
+                            rightSum + dp[mid + 1][r]
+                        );
+                    }
+                    else {
+                        dp[l][r] = max({
+                            dp[l][r],
+                            leftSum + dp[l][mid],
+                            rightSum + dp[mid + 1][r]
+                        });
+                    }
+                }
+            }
+        }
+
+        return dp[0][n - 1];
     }
 };
