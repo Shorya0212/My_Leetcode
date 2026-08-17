@@ -17,6 +17,7 @@
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1563-stone-game-v](https://github.com/Shorya0212/My_Leetcode/tree/master/1563-stone-game-v) |
 | [1706-where-will-the-ball-fall](https://github.com/Shorya0212/My_Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2029-stone-game-ix](https://github.com/Shorya0212/My_Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shorya0212/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -96,6 +97,7 @@
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/Shorya0212/My_Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shorya0212/My_Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shorya0212/My_Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shorya0212/My_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -110,6 +112,7 @@
 | [0808-soup-servings](https://github.com/Shorya0212/My_Leetcode/tree/master/0808-soup-servings) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Shorya0212/My_Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shorya0212/My_Leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -122,6 +125,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Shorya0212/My_Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shorya0212/My_Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shorya0212/My_Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
