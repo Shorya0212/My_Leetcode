@@ -151,6 +151,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Shorya0212/My_Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/Shorya0212/My_Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -170,6 +171,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Shorya0212/My_Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -245,6 +247,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shorya0212/My_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Shorya0212/My_Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -254,6 +257,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shorya0212/My_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Shorya0212/My_Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Prefix Sum
 |  |
@@ -311,4 +315,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Shorya0212/My_Leetcode/tree/master/2029-stone-game-ix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
