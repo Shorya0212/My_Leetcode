@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/Shorya0212/My_Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Shorya0212/My_Leetcode/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shorya0212/My_Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Shorya0212/My_Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Shorya0212/My_Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
