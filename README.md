@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/Shorya0212/My_Leetcode/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
@@ -110,6 +111,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Shorya0212/My_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
 | [0808-soup-servings](https://github.com/Shorya0212/My_Leetcode/tree/master/0808-soup-servings) |
@@ -209,6 +211,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0045-jump-game-ii) |
 | [2029-stone-game-ix](https://github.com/Shorya0212/My_Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
