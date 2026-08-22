@@ -24,6 +24,7 @@
 | [1563-stone-game-v](https://github.com/Shorya0212/My_Leetcode/tree/master/1563-stone-game-v) |
 | [1706-where-will-the-ball-fall](https://github.com/Shorya0212/My_Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2029-stone-game-ix](https://github.com/Shorya0212/My_Leetcode/tree/master/2029-stone-game-ix) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shorya0212/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shorya0212/My_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -39,6 +40,7 @@
 | [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1386-cinema-seat-allocation](https://github.com/Shorya0212/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shorya0212/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shorya0212/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -58,6 +60,7 @@
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
 | [0392-is-subsequence](https://github.com/Shorya0212/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shorya0212/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -195,6 +198,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3310-remove-methods-from-project](https://github.com/Shorya0212/My_Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
@@ -340,4 +344,12 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Topological Sort
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
