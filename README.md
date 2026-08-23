@@ -288,6 +288,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Topological Sort
 |  |
 | ------- |
