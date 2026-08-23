@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Shorya0212/My_Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Shorya0212/My_Leetcode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Shorya0212/My_Leetcode/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shorya0212/My_Leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Shorya0212/My_Leetcode/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0808-soup-servings](https://github.com/Shorya0212/My_Leetcode/tree/master/0808-soup-servings) |
@@ -281,6 +283,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shorya0212/My_Leetcode/tree/master/0048-rotate-image) |
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1706-where-will-the-ball-fall](https://github.com/Shorya0212/My_Leetcode/tree/master/1706-where-will-the-ball-fall) |
