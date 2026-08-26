@@ -72,6 +72,7 @@
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
 | [1927-sum-game](https://github.com/Shorya0212/My_Leetcode/tree/master/1927-sum-game) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shorya0212/My_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shorya0212/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shorya0212/My_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0076-minimum-window-substring) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shorya0212/My_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shorya0212/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shorya0212/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
