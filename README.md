@@ -291,6 +291,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0206-reverse-linked-list](https://github.com/Shorya0212/My_Leetcode/tree/master/0206-reverse-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shorya0212/My_Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
