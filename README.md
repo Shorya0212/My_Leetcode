@@ -111,6 +111,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/Shorya0212/My_Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Shorya0212/My_Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Shorya0212/My_Leetcode/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/Shorya0212/My_Leetcode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Shorya0212/My_Leetcode/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/Shorya0212/My_Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Shorya0212/My_Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
