@@ -178,6 +178,7 @@
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Shorya0212/My_Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shorya0212/My_Leetcode/tree/master/1563-stone-game-v) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Shorya0212/My_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1872-stone-game-viii](https://github.com/Shorya0212/My_Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
@@ -256,20 +257,24 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Shorya0212/My_Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Shorya0212/My_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3310-remove-methods-from-project](https://github.com/Shorya0212/My_Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Shorya0212/My_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Shorya0212/My_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Shorya0212/My_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Enumeration
 |  |
 | ------- |
@@ -428,6 +433,7 @@
 |  |
 | ------- |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Shorya0212/My_Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Shorya0212/My_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Directed Acyclic Graph
 |  |
