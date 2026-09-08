@@ -24,6 +24,7 @@
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1386-cinema-seat-allocation](https://github.com/Shorya0212/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Shorya0212/My_Leetcode/tree/master/1563-stone-game-v) |
 | [1706-where-will-the-ball-fall](https://github.com/Shorya0212/My_Leetcode/tree/master/1706-where-will-the-ball-fall) |
@@ -50,6 +51,7 @@
 | [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/Shorya0212/My_Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1386-cinema-seat-allocation](https://github.com/Shorya0212/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shorya0212/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -146,6 +148,7 @@
 | [0015-3sum](https://github.com/Shorya0212/My_Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Shorya0212/My_Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -252,6 +255,7 @@
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Shorya0212/My_Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Shorya0212/My_Leetcode/tree/master/1765-map-of-highest-peak) |
 | [3310-remove-methods-from-project](https://github.com/Shorya0212/My_Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shorya0212/My_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -260,6 +264,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Shorya0212/My_Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Shorya0212/My_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3310-remove-methods-from-project](https://github.com/Shorya0212/My_Leetcode/tree/master/3310-remove-methods-from-project) |
