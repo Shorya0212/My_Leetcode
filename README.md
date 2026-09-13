@@ -21,6 +21,7 @@
 | [0228-summary-ranges](https://github.com/Shorya0212/My_Leetcode/tree/master/0228-summary-ranges) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
+| [0835-image-overlap](https://github.com/Shorya0212/My_Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -345,6 +346,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Shorya0212/My_Leetcode/tree/master/0048-rotate-image) |
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
+| [0835-image-overlap](https://github.com/Shorya0212/My_Leetcode/tree/master/0835-image-overlap) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1706-where-will-the-ball-fall](https://github.com/Shorya0212/My_Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1765-map-of-highest-peak](https://github.com/Shorya0212/My_Leetcode/tree/master/1765-map-of-highest-peak) |
