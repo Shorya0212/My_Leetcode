@@ -132,6 +132,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Shorya0212/My_Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/Shorya0212/My_Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/Shorya0212/My_Leetcode/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Shorya0212/My_Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1907-count-salary-categories](https://github.com/Shorya0212/My_Leetcode/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shorya0212/My_Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
