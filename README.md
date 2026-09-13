@@ -77,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/Shorya0212/My_Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Shorya0212/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Shorya0212/My_Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
@@ -232,6 +233,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shorya0212/My_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Shorya0212/My_Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -255,6 +257,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Shorya0212/My_Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/Shorya0212/My_Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -359,6 +362,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shorya0212/My_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Shorya0212/My_Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -372,6 +376,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shorya0212/My_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Shorya0212/My_Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shorya0212/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -390,6 +395,7 @@
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
