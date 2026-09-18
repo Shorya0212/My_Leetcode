@@ -167,6 +167,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Shorya0212/My_Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Shorya0212/My_Leetcode/tree/master/0048-rotate-image) |
+| [0089-gray-code](https://github.com/Shorya0212/My_Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0808-soup-servings](https://github.com/Shorya0212/My_Leetcode/tree/master/0808-soup-servings) |
@@ -312,6 +313,7 @@
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Shorya0212/My_Leetcode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Shorya0212/My_Leetcode/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -447,6 +449,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Shorya0212/My_Leetcode/tree/master/0089-gray-code) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Shorya0212/My_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1386-cinema-seat-allocation](https://github.com/Shorya0212/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shorya0212/My_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
