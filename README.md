@@ -79,6 +79,7 @@
 | [0115-distinct-subsequences](https://github.com/Shorya0212/My_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shorya0212/My_Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/Shorya0212/My_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Shorya0212/My_Leetcode/tree/master/0392-is-subsequence) |
@@ -171,6 +172,7 @@
 | [0048-rotate-image](https://github.com/Shorya0212/My_Leetcode/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/Shorya0212/My_Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0171-excel-sheet-column-number](https://github.com/Shorya0212/My_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0808-soup-servings](https://github.com/Shorya0212/My_Leetcode/tree/master/0808-soup-servings) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
