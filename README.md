@@ -58,6 +58,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/Shorya0212/My_Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Shorya0212/My_Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1386-cinema-seat-allocation](https://github.com/Shorya0212/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shorya0212/My_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -88,6 +89,7 @@
 | [0392-is-subsequence](https://github.com/Shorya0212/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Shorya0212/My_Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
+| [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/Shorya0212/My_Leetcode/tree/master/1927-sum-game) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shorya0212/My_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -165,6 +167,7 @@
 | [0015-3sum](https://github.com/Shorya0212/My_Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
+| [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shorya0212/My_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -282,6 +285,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Shorya0212/My_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Shorya0212/My_Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -325,6 +329,7 @@
 | [0077-combinations](https://github.com/Shorya0212/My_Leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Shorya0212/My_Leetcode/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
+| [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -504,4 +509,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
