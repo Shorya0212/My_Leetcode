@@ -83,6 +83,7 @@
 | [0006-zigzag-conversion](https://github.com/Shorya0212/My_Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Shorya0212/My_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Shorya0212/My_Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Shorya0212/My_Leetcode/tree/master/0115-distinct-subsequences) |
@@ -209,6 +210,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Shorya0212/My_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/Shorya0212/My_Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Shorya0212/My_Leetcode/tree/master/0115-distinct-subsequences) |
@@ -436,6 +438,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -526,5 +529,6 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
