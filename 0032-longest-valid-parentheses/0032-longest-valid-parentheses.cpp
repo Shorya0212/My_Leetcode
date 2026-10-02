@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
-        int open = 1, close = 0, longest = 0;
+        int open = 0, close = 0, longest = 0;
         int n = s.size();
         for (int i = 0; i < n; i++) {
             (s[i] == '(') ? ++open : ++close;
