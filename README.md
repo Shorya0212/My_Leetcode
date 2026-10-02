@@ -12,6 +12,7 @@
 | [0045-jump-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Shorya0212/My_Leetcode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Shorya0212/My_Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
@@ -386,6 +387,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shorya0212/My_Leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/Shorya0212/My_Leetcode/tree/master/0835-image-overlap) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Shorya0212/My_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -475,6 +477,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1706-where-will-the-ball-fall](https://github.com/Shorya0212/My_Leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Bit Manipulation
 |  |
