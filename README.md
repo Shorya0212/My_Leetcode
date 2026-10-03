@@ -46,6 +46,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shorya0212/My_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shorya0212/My_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3523-make-array-non-decreasing](https://github.com/Shorya0212/My_Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shorya0212/My_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shorya0212/My_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -362,6 +363,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shorya0212/My_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3523-make-array-non-decreasing](https://github.com/Shorya0212/My_Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shorya0212/My_Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
@@ -546,6 +548,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
+| [3523-make-array-non-decreasing](https://github.com/Shorya0212/My_Leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Merge Sort
 |  |
 | ------- |
@@ -562,4 +565,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3523-make-array-non-decreasing](https://github.com/Shorya0212/My_Leetcode/tree/master/3523-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
