@@ -27,6 +27,7 @@
 | [0835-image-overlap](https://github.com/Shorya0212/My_Leetcode/tree/master/0835-image-overlap) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Shorya0212/My_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Shorya0212/My_Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -176,6 +177,7 @@
 | [0015-3sum](https://github.com/Shorya0212/My_Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
+| [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -317,6 +319,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
+| [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Shorya0212/My_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Shortest Path
 |  |
@@ -525,6 +528,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shorya0212/My_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Shorya0212/My_Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -534,4 +538,20 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
