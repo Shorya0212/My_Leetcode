@@ -7,5 +7,3 @@ SET N = N-1;
       
   );
 END
-
-#pls upvote if you find solution easy to undestand....!! Thanks..!!!
