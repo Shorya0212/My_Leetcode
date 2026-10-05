@@ -100,6 +100,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Shorya0212/My_Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/Shorya0212/My_Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shorya0212/My_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Shorya0212/My_Leetcode/tree/master/1927-sum-game) |
@@ -462,6 +463,7 @@
 | [0022-generate-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shorya0212/My_Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0856-score-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -555,6 +557,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shorya0212/My_Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3523-make-array-non-decreasing](https://github.com/Shorya0212/My_Leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Merge Sort
