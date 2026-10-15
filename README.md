@@ -104,6 +104,7 @@
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Shorya0212/My_Leetcode/tree/master/0306-additive-number) |
 | [0392-is-subsequence](https://github.com/Shorya0212/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Shorya0212/My_Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0472-concatenated-words](https://github.com/Shorya0212/My_Leetcode/tree/master/0472-concatenated-words) |
@@ -375,6 +376,7 @@
 | [0113-path-sum-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Shorya0212/My_Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Shorya0212/My_Leetcode/tree/master/0306-additive-number) |
 | [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
