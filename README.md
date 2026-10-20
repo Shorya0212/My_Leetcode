@@ -42,6 +42,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shorya0212/My_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Shorya0212/My_Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shorya0212/My_Leetcode/tree/master/2029-stone-game-ix) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Shorya0212/My_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shorya0212/My_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shorya0212/My_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shorya0212/My_Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -400,6 +401,7 @@
 | [1927-sum-game](https://github.com/Shorya0212/My_Leetcode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shorya0212/My_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/Shorya0212/My_Leetcode/tree/master/2029-stone-game-ix) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Shorya0212/My_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shorya0212/My_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shorya0212/My_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shorya0212/My_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
