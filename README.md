@@ -78,6 +78,7 @@
 | [0076-minimum-window-substring](https://github.com/Shorya0212/My_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Shorya0212/My_Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/Shorya0212/My_Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/Shorya0212/My_Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Shorya0212/My_Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -201,6 +202,7 @@
 | [0061-rotate-list](https://github.com/Shorya0212/My_Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shorya0212/My_Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Shorya0212/My_Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Shorya0212/My_Leetcode/tree/master/0392-is-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shorya0212/My_Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shorya0212/My_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -229,6 +231,7 @@
 | [0089-gray-code](https://github.com/Shorya0212/My_Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Shorya0212/My_Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/Shorya0212/My_Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Shorya0212/My_Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shorya0212/My_Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0808-soup-servings](https://github.com/Shorya0212/My_Leetcode/tree/master/0808-soup-servings) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
@@ -651,4 +654,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shorya0212/My_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shorya0212/My_Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
