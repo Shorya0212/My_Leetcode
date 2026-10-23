@@ -60,6 +60,7 @@
 | [3523-make-array-non-decreasing](https://github.com/Shorya0212/My_Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shorya0212/My_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shorya0212/My_Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shorya0212/My_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shorya0212/My_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shorya0212/My_Leetcode/tree/master/3731-find-missing-elements) |
@@ -571,6 +572,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Shorya0212/My_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shorya0212/My_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shorya0212/My_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shorya0212/My_Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shorya0212/My_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
