@@ -35,6 +35,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Shorya0212/My_Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Shorya0212/My_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -326,6 +327,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shorya0212/My_Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/Shorya0212/My_Leetcode/tree/master/0743-network-delay-time) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Shorya0212/My_Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1254-number-of-closed-islands](https://github.com/Shorya0212/My_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Shorya0212/My_Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
@@ -354,6 +356,7 @@
 | [0864-shortest-path-to-get-all-keys](https://github.com/Shorya0212/My_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1096-brace-expansion-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Shorya0212/My_Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1254-number-of-closed-islands](https://github.com/Shorya0212/My_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Shorya0212/My_Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Shorya0212/My_Leetcode/tree/master/1765-map-of-highest-peak) |
@@ -473,6 +476,7 @@
 | [0289-game-of-life](https://github.com/Shorya0212/My_Leetcode/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/Shorya0212/My_Leetcode/tree/master/0835-image-overlap) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Shorya0212/My_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [1254-number-of-closed-islands](https://github.com/Shorya0212/My_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Shorya0212/My_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1706-where-will-the-ball-fall](https://github.com/Shorya0212/My_Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1765-map-of-highest-peak](https://github.com/Shorya0212/My_Leetcode/tree/master/1765-map-of-highest-peak) |
@@ -666,4 +670,5 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Shorya0212/My_Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
