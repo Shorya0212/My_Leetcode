@@ -61,6 +61,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shorya0212/My_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shorya0212/My_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shorya0212/My_Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3523-make-array-non-decreasing](https://github.com/Shorya0212/My_Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shorya0212/My_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -103,6 +104,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shorya0212/My_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shorya0212/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shorya0212/My_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shorya0212/My_Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shorya0212/My_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shorya0212/My_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shorya0212/My_Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -159,6 +161,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shorya0212/My_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shorya0212/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shorya0212/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shorya0212/My_Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Database
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | [2409-count-days-spent-together](https://github.com/Shorya0212/My_Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shorya0212/My_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shorya0212/My_Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shorya0212/My_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shorya0212/My_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shorya0212/My_Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -291,6 +295,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shorya0212/My_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shorya0212/My_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shorya0212/My_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shorya0212/My_Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Shorya0212/My_Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shorya0212/My_Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
@@ -394,6 +399,7 @@
 | [0912-sort-an-array](https://github.com/Shorya0212/My_Leetcode/tree/master/0912-sort-an-array) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Shorya0212/My_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shorya0212/My_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shorya0212/My_Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shorya0212/My_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
